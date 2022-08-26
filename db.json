@@ -1,0 +1,704 @@
+{
+  "results": [
+    {
+      "kind": "news",
+      "domain": "cryptoslate.com",
+      "source": {
+        "title": "CryptoSlate",
+        "region": "en",
+        "domain": "cryptoslate.com",
+        "path": null
+      },
+      "title": "Behind Waves USDN depeg and how Sasha Ivanov worked to restore the peg by taking on $500M in debt",
+      "published_at": "2022-08-25T23:15:04Z",
+      "slug": "Behind-Waves-USDN-depeg-and-how-Sasha-Ivanov-worked-to-restore-the-peg-by-taking-on-500M-in-debt",
+      "currencies": [
+        {
+          "code": "USDN",
+          "title": "Neutrino USD",
+          "slug": "neutrino",
+          "url": "https://cryptopanic.com/news/neutrino/"
+        }
+      ],
+      "id": 16150532,
+      "url": "https://cryptopanic.com/news/16150532/Behind-Waves-USDN-depeg-and-how-Sasha-Ivanov-worked-to-restore-the-peg-by-taking-on-500M-in-debt",
+      "created_at": "2022-08-25T23:15:04Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "newsbtc.com",
+      "source": {
+        "title": "NewsBTC",
+        "region": "en",
+        "domain": "newsbtc.com",
+        "path": null
+      },
+      "title": "What The Negative Bitcoin Funding Rates Say About Investor Outlook",
+      "published_at": "2022-08-25T23:00:27Z",
+      "slug": "What-The-Negative-Bitcoin-Funding-Rates-Say-About-Investor-Outlook",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        }
+      ],
+      "id": 16150484,
+      "url": "https://cryptopanic.com/news/16150484/What-The-Negative-Bitcoin-Funding-Rates-Say-About-Investor-Outlook",
+      "created_at": "2022-08-25T23:00:27Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "bitcoinist.com",
+      "source": {
+        "title": "Bitcoinist",
+        "region": "en",
+        "domain": "bitcoinist.com",
+        "path": null
+      },
+      "title": "Energy Costs Are An Increasing Concern For Cash-Strapped Bitcoin Miners",
+      "published_at": "2022-08-25T23:00:24Z",
+      "slug": "Energy-Costs-Are-An-Increasing-Concern-For-Cash-Strapped-Bitcoin-Miners",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 16150507,
+      "url": "https://cryptopanic.com/news/16150507/Energy-Costs-Are-An-Increasing-Concern-For-Cash-Strapped-Bitcoin-Miners",
+      "created_at": "2022-08-25T23:00:24Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "bitcoinmagazine.com",
+      "source": {
+        "title": "Bitcoin Magazine",
+        "region": "en",
+        "domain": "bitcoinmagazine.com",
+        "path": null
+      },
+      "title": "The Path To A Bitcoin Standard In Africa",
+      "published_at": "2022-08-25T23:00:00Z",
+      "slug": "The-Path-To-A-Bitcoin-Standard-In-Africa",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 16150506,
+      "url": "https://cryptopanic.com/news/16150506/The-Path-To-A-Bitcoin-Standard-In-Africa",
+      "created_at": "2022-08-25T23:00:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "beincrypto.com",
+      "votes": {
+        "negative": 0,
+        "positive": 1,
+        "important": 0,
+        "liked": 1,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "BeInCrypto",
+        "region": "en",
+        "domain": "beincrypto.com",
+        "path": null
+      },
+      "title": "Bitcoin (BTC) On-Chain Analysis: Mayer Multiple Shows Bullish Reversal Potential",
+      "published_at": "2022-08-25T23:00:00Z",
+      "slug": "Bitcoin-BTC-On-Chain-Analysis-Mayer-Multiple-Shows-Bullish-Reversal-Potential",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 16150505,
+      "url": "https://cryptopanic.com/news/16150505/Bitcoin-BTC-On-Chain-Analysis-Mayer-Multiple-Shows-Bullish-Reversal-Potential",
+      "created_at": "2022-08-25T23:00:00Z"
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "BTC Sessions",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null
+      },
+      "title": "NEWS ROUNDUP: Travel Rule and Over-Regulation in Developing Nations",
+      "published_at": "2022-08-25T22:55:53Z",
+      "slug": "NEWS-ROUNDUP-Travel-Rule-and-Over-Regulation-in-Developing-Nations",
+      "id": 16149346,
+      "url": "https://cryptopanic.com/news/16149346/NEWS-ROUNDUP-Travel-Rule-and-Over-Regulation-in-Developing-Nations",
+      "created_at": "2022-08-25T22:55:53Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "Altcoin Buzz",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null
+      },
+      "title": "3 UNDERVALUED ALTCOINS! #shorts",
+      "published_at": "2022-08-25T22:31:35Z",
+      "slug": "3-UNDERVALUED-ALTCOINS-shorts",
+      "id": 16150456,
+      "url": "https://cryptopanic.com/news/16150456/3-UNDERVALUED-ALTCOINS-shorts",
+      "created_at": "2022-08-25T22:31:35Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "bitcoinist.com",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 1,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "Bitcoinist",
+        "region": "en",
+        "domain": "bitcoinist.com",
+        "path": null
+      },
+      "title": "Afghan Police Ceased 16 Crypto Exchanges Over The Last Week",
+      "published_at": "2022-08-25T22:11:45Z",
+      "slug": "Afghan-Police-Ceased-16-Crypto-Exchanges-Over-The-Last-Week",
+      "id": 16150403,
+      "url": "https://cryptopanic.com/news/16150403/Afghan-Police-Ceased-16-Crypto-Exchanges-Over-The-Last-Week",
+      "created_at": "2022-08-25T22:11:45Z"
+    },
+    {
+      "kind": "news",
+      "domain": "dailyhodl.com",
+      "source": {
+        "title": "The Daily Hodl",
+        "region": "en",
+        "domain": "dailyhodl.com",
+        "path": null
+      },
+      "title": "Here’s How Avalanche (AVAX) Can Nearly Double in Price, According to Popular Crypto Analyst",
+      "published_at": "2022-08-25T22:05:56Z",
+      "slug": "Heres-How-Avalanche-AVAX-Can-Nearly-Double-in-Price-According-to-Popular-Crypto-Analyst",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "AVAX",
+          "title": "Avalanche",
+          "slug": "avalanche-2",
+          "url": "https://cryptopanic.com/news/avalanche-2/"
+        },
+        {
+          "code": "FTM",
+          "title": "Fantom",
+          "slug": "fantom",
+          "url": "https://cryptopanic.com/news/fantom/"
+        }
+      ],
+      "id": 16150377,
+      "url": "https://cryptopanic.com/news/16150377/Heres-How-Avalanche-AVAX-Can-Nearly-Double-in-Price-According-to-Popular-Crypto-Analyst",
+      "created_at": "2022-08-25T22:05:56Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "dailyhodl.com",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 2
+      },
+      "source": {
+        "title": "The Daily Hodl",
+        "region": "en",
+        "domain": "dailyhodl.com",
+        "path": null
+      },
+      "title": "Analyst Says Bitcoin (BTC) Weakening, but Crypto Markets Can Rally This Week After Fed Meeting",
+      "published_at": "2022-08-25T22:01:29Z",
+      "slug": "Analyst-Says-Bitcoin-BTC-Weakening-but-Crypto-Markets-Can-Rally-This-Week-After-Fed-Meeting",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 16150378,
+      "url": "https://cryptopanic.com/news/16150378/Analyst-Says-Bitcoin-BTC-Weakening-but-Crypto-Markets-Can-Rally-This-Week-After-Fed-Meeting",
+      "created_at": "2022-08-25T22:01:29Z"
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "Anthony Pompliano",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null
+      },
+      "title": "Dave Ramsey Got One Thing Wrong #shorts",
+      "published_at": "2022-08-25T22:00:13Z",
+      "slug": "Dave-Ramsey-Got-One-Thing-Wrong-shorts",
+      "id": 16150401,
+      "url": "https://cryptopanic.com/news/16150401/Dave-Ramsey-Got-One-Thing-Wrong-shorts",
+      "created_at": "2022-08-25T22:00:13Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "beincrypto.com",
+      "votes": {
+        "negative": 0,
+        "positive": 2,
+        "important": 1,
+        "liked": 2,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "BeInCrypto",
+        "region": "en",
+        "domain": "beincrypto.com",
+        "path": null
+      },
+      "title": "Bitcoin ATM Firm Set to Go Public in $885M Deal",
+      "published_at": "2022-08-25T22:00:00Z",
+      "slug": "Bitcoin-ATM-Firm-Set-to-Go-Public-in-885M-Deal",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 16150368,
+      "url": "https://cryptopanic.com/news/16150368/Bitcoin-ATM-Firm-Set-to-Go-Public-in-885M-Deal",
+      "created_at": "2022-08-25T22:00:00Z"
+    },
+    {
+      "kind": "news",
+      "domain": "newsbtc.com",
+      "source": {
+        "title": "NewsBTC",
+        "region": "en",
+        "domain": "newsbtc.com",
+        "path": null
+      },
+      "title": "LoopRing Price Lags Despite Relief, Is LRC Double-Digit Gain Feasible?",
+      "published_at": "2022-08-25T21:55:28Z",
+      "slug": "LoopRing-Price-Lags-Despite-Relief-Is-LRC-Double-Digit-Gain-Feasible",
+      "currencies": [
+        {
+          "code": "USDT",
+          "title": "Tether",
+          "slug": "tether",
+          "url": "https://cryptopanic.com/news/tether/"
+        },
+        {
+          "code": "LRC",
+          "title": "Loopring",
+          "slug": "loopring",
+          "url": "https://cryptopanic.com/news/loopring/"
+        }
+      ],
+      "id": 16150338,
+      "url": "https://cryptopanic.com/news/16150338/LoopRing-Price-Lags-Despite-Relief-Is-LRC-Double-Digit-Gain-Feasible",
+      "created_at": "2022-08-25T21:55:28Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cointelegraph.com",
+      "source": {
+        "title": "CoinTelegraph",
+        "region": "en",
+        "domain": "cointelegraph.com",
+        "path": null
+      },
+      "title": "ATOM price is reaching for the Cosmos, but why?",
+      "published_at": "2022-08-25T21:51:41Z",
+      "slug": "ATOM-price-is-reaching-for-the-Cosmos-but-why",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "ATOM",
+          "title": "Cosmos Hub",
+          "slug": "cosmos",
+          "url": "https://cryptopanic.com/news/cosmos/"
+        }
+      ],
+      "id": 16150329,
+      "url": "https://cryptopanic.com/news/16150329/ATOM-price-is-reaching-for-the-Cosmos-but-why",
+      "created_at": "2022-08-25T21:51:41Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptopotato.com",
+      "source": {
+        "title": "Feed - Cryptopotato.Com",
+        "region": "en",
+        "domain": "cryptopotato.com",
+        "path": null
+      },
+      "title": "UNI Token Holders Approve Proposal to Create Uniswap Foundation",
+      "published_at": "2022-08-25T21:33:38Z",
+      "slug": "UNI-Token-Holders-Approve-Proposal-to-Create-Uniswap-Foundation",
+      "currencies": [
+        {
+          "code": "UNI",
+          "title": "Uniswap",
+          "slug": "uniswap",
+          "url": "https://cryptopanic.com/news/uniswap/"
+        }
+      ],
+      "id": 16150292,
+      "url": "https://cryptopanic.com/news/16150292/UNI-Token-Holders-Approve-Proposal-to-Create-Uniswap-Foundation",
+      "created_at": "2022-08-25T21:33:38Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "ambcrypto.com",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 1,
+        "disliked": 0,
+        "lol": 1,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "AMBCrypto",
+        "region": "en",
+        "domain": "ambcrypto.com",
+        "path": null
+      },
+      "title": "XRP achieves a new milestone, beats even BTC and ETH in…",
+      "published_at": "2022-08-25T21:30:29Z",
+      "slug": "XRP-achieves-a-new-milestone-beats-even-BTC-and-ETH-in",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "XRP",
+          "title": "XRP",
+          "slug": "ripple",
+          "url": "https://cryptopanic.com/news/ripple/"
+        }
+      ],
+      "id": 16150284,
+      "url": "https://cryptopanic.com/news/16150284/XRP-achieves-a-new-milestone-beats-even-BTC-and-ETH-in",
+      "created_at": "2022-08-25T21:30:29Z"
+    },
+    {
+      "kind": "news",
+      "domain": "theblockcrypto.com",
+      "votes": {
+        "negative": 4,
+        "positive": 0,
+        "important": 1,
+        "liked": 0,
+        "disliked": 2,
+        "lol": 1,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "The Block",
+        "region": "en",
+        "domain": "theblockcrypto.com",
+        "path": null
+      },
+      "title": "SEC delays decision on VanEck’s latest bitcoin ETF application",
+      "published_at": "2022-08-25T21:28:11Z",
+      "slug": "SEC-delays-decision-on-VanEcks-latest-bitcoin-ETF-application",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 16150267,
+      "url": "https://cryptopanic.com/news/16150267/SEC-delays-decision-on-VanEcks-latest-bitcoin-ETF-application",
+      "created_at": "2022-08-25T21:28:11Z"
+    },
+    {
+      "kind": "news",
+      "domain": "cointelegraph.com",
+      "votes": {
+        "negative": 1,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "CoinTelegraph",
+        "region": "en",
+        "domain": "cointelegraph.com",
+        "path": null
+      },
+      "title": "Alameda Research and FTX merge VC operations: Report",
+      "published_at": "2022-08-25T21:25:05Z",
+      "slug": "Alameda-Research-and-FTX-merge-VC-operations-Report",
+      "currencies": [
+        {
+          "code": "FTT",
+          "title": "FTX",
+          "slug": "ftx-token",
+          "url": "https://cryptopanic.com/news/ftx-token/"
+        }
+      ],
+      "id": 16150260,
+      "url": "https://cryptopanic.com/news/16150260/Alameda-Research-and-FTX-merge-VC-operations-Report",
+      "created_at": "2022-08-25T21:25:05Z"
+    },
+    {
+      "kind": "news",
+      "domain": "cryptobriefing.com",
+      "votes": {
+        "negative": 6,
+        "positive": 3,
+        "important": 4,
+        "liked": 4,
+        "disliked": 5,
+        "lol": 2,
+        "toxic": 0,
+        "saved": 2,
+        "comments": 1
+      },
+      "source": {
+        "title": "CryptoBriefing",
+        "region": "en",
+        "domain": "cryptobriefing.com",
+        "path": null
+      },
+      "title": "Eminem and Snoop Dogg to Perform BAYC-Themed Show on MTV",
+      "published_at": "2022-08-25T21:17:12Z",
+      "slug": "Eminem-and-Snoop-Dogg-to-Perform-BAYC-Themed-Show-on-MTV",
+      "id": 16150244,
+      "url": "https://cryptopanic.com/news/16150244/Eminem-and-Snoop-Dogg-to-Perform-BAYC-Themed-Show-on-MTV",
+      "created_at": "2022-08-25T21:17:12Z"
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "FUD TV",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null
+      },
+      "title": "2022 Recession: Once In A Lifetime Opportunity To Build Wealth! (Last Chance)",
+      "published_at": "2022-08-25T21:12:45Z",
+      "slug": "2022-RECESSION-ONCE-IN-A-LIFETIME-OPPORTUNITY-TO-BUILD-WEALTH-LAST-CHANCE",
+      "id": 16150265,
+      "url": "https://cryptopanic.com/news/16150265/2022-RECESSION-ONCE-IN-A-LIFETIME-OPPORTUNITY-TO-BUILD-WEALTH-LAST-CHANCE",
+      "created_at": "2022-08-25T21:12:45Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    }
+  ]
+}

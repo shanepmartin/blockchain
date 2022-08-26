@@ -1,0 +1,101 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 13px;
+}
+
+.site-title {
+  font-size: 700px;
+  background-color: #D6F1CD;
+}
+
+li {
+  display: inline;
+  border-radius: 30px;
+  background-color: #8fbc8f;
+}
+
+a {
+  display: inline;
+  padding: 8px;
+  background-color: #8fbc8f;
+  border-radius: 30px;
+}
+
+.nav {
+  background-color: #D6F1CD;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+  padding: 0 1rem;
+  font-style: courier;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  border-radius: 30px;
+}
+
+a.options {
+  align-items: center;
+  background-color: #D6F1CD;
+  list-style: unset;
+  border-style: groove;
+  gap: 2rem;
+}
+
+a.login {
+  background-color: #8fbc8f;
+  align-items: right;
+  border-radius: 30px;
+}
+
+.routes {
+  background-color: #eab971;
+  font-size: larger;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 12rem;
+}
+
+.site-title {
+  font-size: 4rem;
+  font-style: courier;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.nav a {
+  color: inherit;
+  font-style: courier;
+}
+
+.home {
+  font-size: large;
+  align-content: center;
+  align-items: center;
+}
+.container {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #ecebbd;
+  border-radius: 10px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
