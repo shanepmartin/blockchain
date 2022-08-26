@@ -13,7 +13,7 @@ body {
 
 li {
   display: inline;
-  border-radius: 30px;
+  border-radius: 10px;
   background-color: #8fbc8f;
 }
 
@@ -21,7 +21,7 @@ a {
   display: inline;
   padding: 8px;
   background-color: #8fbc8f;
-  border-radius: 30px;
+  border-radius: 10px;
 }
 
 .nav {
@@ -31,15 +31,18 @@ a {
   justify-content: space-between;
   align-items: center;
   gap: 2rem;
-  padding: 0 1rem;
+  padding: 1rem;
   font-style: courier;
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
-  border-radius: 30px;
+  text-align: center;
+  border-radius: 10px;
 }
 
 a.options {
   align-items: center;
+  text-align: center;
+  text-decoration: solid;
   background-color: #D6F1CD;
   list-style: unset;
   border-style: groove;
@@ -49,7 +52,7 @@ a.options {
 a.login {
   background-color: #8fbc8f;
   align-items: right;
-  border-radius: 30px;
+  border-radius: 10px;
 }
 
 .routes {

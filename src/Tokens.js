@@ -5,7 +5,7 @@ const Tokens = (props) => {
 
     useEffect(() => {
         const fetchToken = async () => {
-            let req = await fetch('https://lunarcrush.com/api3/coins/feeds')
+            let req = await fetch('https://lunarcrush.com/api3/market-pairs/:coin')
             let res = await req.json();
             console.log('res', res)
             setToken(res.data)

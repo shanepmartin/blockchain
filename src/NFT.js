@@ -16,14 +16,16 @@ const NFT = (props) => {
         console.log(nft)
         return (
             <section className="NFT">
-                <h1 className='NFTs'>NFTs</h1>
+                <h1 className='NFTs'>Non Fungible Tokens (NFTs)</h1>
                 <h2>Here are the Top 100 NFT Collections!</h2>
                 <div className='options'>
                 {
                     nft.map(function (n){
                         return ([
-                            <p>{n.name}</p>,
-                            <img height="100px" src={n.logo}></img>
+                            <div style={{ marginLeft: "1300px", display: "grid" }}>
+                            <p>{n.id}: {n.name}</p>
+                                <img style={{  height: "400px", width: "400px"}} src={n.logo} alt="logo"/>
+                            </div>
                         ])
                     })
                 }

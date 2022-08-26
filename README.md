@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+CryptoPanic API for recent crypto news: https://cryptopanic.com/api/v1/posts/?auth_token=9354e23c78607bf031332e43a229f920db5f0896
+
+LunarCrush API for Crypto prices & information: https://lunarcrush.com/api3 
+
