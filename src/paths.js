@@ -5,7 +5,6 @@ import Tokens from "./Tokens";
 import Defi from "./Defi";
 import Metaverse from "./Metaverse";
 import Web3 from "./Web3";
-import Upcoming from "./Upcoming";
 
 function RoutesContainer() {
 
