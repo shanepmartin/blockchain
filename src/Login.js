@@ -42,10 +42,10 @@ function Login() {
             } else {
                 setIsSubmitted(true);
             }
-        } else {
+        } //else {
             // Username not found
-            setErrorMessages({ name: "uname", message: errors.uname });
-        }
+           // setErrorMessages({ name: "uname", message: errors.uname });
+       // }
     };
 
     // Generate JSX code for error message

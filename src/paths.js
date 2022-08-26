@@ -30,9 +30,6 @@ function RoutesContainer() {
                     <Route path="/Web3">
                         <Web3 />
                     </Route>
-                    <Route path="/Upcoming">
-                        <Upcoming />
-                    </Route>
                 </Routes>
             </div>
         </body>

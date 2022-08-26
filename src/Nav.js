@@ -1,14 +1,11 @@
 import React from 'react'
-import Login from './Login'
 import { Link } from "react-router-dom"
 
 
 function Nav() {
     return (
         <nav className='nav'>
-            <a href='/login' className='login'>
-                <Login />
-            </a>
+           
             <a href='/' class='site-title'>BlockChain Almanac</a>
             <ul class='options'>
                 <li>

@@ -6,8 +6,8 @@ import TrendingToday from './TrendingToday';
 const Home = () => {
     
     return (
-        <div className="home">
-            <h1>Welcome to the BlockChain Almanac, your Intro to all things Crypto!</h1>
+        <div>
+            <h1 className='homeMessage'>Welcome to the BlockChain Almanac, your Intro to all things Crypto!</h1>
             <NFTToday />
             <CoinToday />
             <TrendingToday />

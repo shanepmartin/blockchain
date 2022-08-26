@@ -8,12 +8,14 @@ import Defi from "./Defi";
 import Metaverse from "./Metaverse";
 import Web3 from "./Web3";
 import { Route, Routes } from "react-router-dom"
-
+import 'bulma/css/bulma.min.css';
+import Login from './Login'
 function App() {
   return (
     <>
+    <Login/>
       <Nav />
-      <div className='container'>
+      <div className='column is-full'>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/nft" element={<NFT />} />

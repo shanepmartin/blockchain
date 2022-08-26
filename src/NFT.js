@@ -15,22 +15,30 @@ const NFT = (props) => {
     if (nft) {
         console.log(nft)
         return (
-            <section className="NFT">
+
+        <article>
+            <section style={{marginLeft:"400px",width: "80%", fontSize: "50px"}} className="">
+                <div className="column"></div>
+                <div className="column"></div>
+                <div className="box has-text-centered" style={{marginRight: "855px", marginLeft: "640px"}}>
                 <h1 className='NFTs'>Non Fungible Tokens (NFTs)</h1>
-                <h2>Here are the Top 100 NFT Collections!</h2>
-                <div className='options'>
+                <h2 className='top'>Here are the Top 100 NFT Collections!</h2>
+                </div>   
+                    
+                    <div style={{ flexDirection: "row", overflowY: "auto", maxHeight: "1500px", display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gap: "20px"}} className='column has-text-centered'>
                 {
                     nft.map(function (n){
                         return ([
-                            <div style={{ marginLeft: "1300px", display: "grid" }}>
-                            <p>{n.id}: {n.name}</p>
-                                <img style={{  height: "400px", width: "400px"}} src={n.logo} alt="logo"/>
+                            <div className="box" style={{paddingTop: "-40px", paddingBottom: "40px", width: "400px", fontSize: "25px"}}>
+                                <p>{n.id}: {n.name}</p>
+                                <img style={{  height: "300px", width: "300px"}} src={n.logo} alt="logo"/>
                             </div>
                         ])
                     })
                 }
                 </div>
             </section>
+        </article>
         )
     }
 }    

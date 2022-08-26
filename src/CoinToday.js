@@ -15,10 +15,17 @@ const CoinToday = (props) => {
 
     if (coin) {
         return (
-            <section className="home">
-                {/* <h1>Welcome to the BlockChain Almanac, your Intro to all things Crypto!</h1> */}
-                <h2>Coin of the Day: {coin.name} ({coin.symbol})</h2>
-            </section>
+            <article>
+                <section style={{ marginLEft: "400px", width: "80%", fontSize: "40px" }} className="home">
+                        <div className='column'></div>
+                        <div className="box has-text-centered" style={{ marginRight: "855px", marginLeft: "640px" }}></div>
+                    <h2>Coin of the Day: {coin.name} ({coin.symbol})</h2>
+                    <img className='cardano'
+                        src='https://ih1.redbubble.net/image.2817155423.9351/st,small,507x507-pad,600x600,f8f8f8.jpg'
+                        alt='new'
+                    />    
+                </section>
+            </article>        
         )
     }        
 }

@@ -80,11 +80,67 @@ a.login {
   font-size: large;
   align-content: center;
   align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+.homeMessage {
+  font-size: 40px;
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
 }
 .container {
   font-family: 'Courier New', Courier, monospace;
   background-color: #ecebbd;
   border-radius: 10px;
+}
+
+.NFTs {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.top {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.box {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 100;
+}
+
+.img-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.img-wrapper>div {
+  flex: 0 1 33%;
+}
+
+.cardano {
+  height: 280px;
+  width: 280px;
+}
+
+.Defi {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.Metaverse {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Web3 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  font-weight: 500;
 }
 
 @media (prefers-reduced-motion: no-preference) {
